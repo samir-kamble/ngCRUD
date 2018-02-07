@@ -1,0 +1,2 @@
+# ngCRUD
+Angular CRUD ops
